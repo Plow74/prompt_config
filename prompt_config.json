@@ -1,6 +1,5 @@
 {
 	"uiLabels":
-	[
 		{"destinationMrn":"Destination MRN"},
 		{"dob":"DOB"},
 		{"gender":"Sex"},
@@ -10,7 +9,7 @@
 		{"state":"state"},
 		{"phone1":"Primary Phone"},
 		{"pcp":"Primary Care Provider"}
-	],
+	
 	"csvLabels":
 	[
 	]

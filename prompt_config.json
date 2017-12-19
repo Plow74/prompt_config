@@ -11,7 +11,7 @@
 		{"phone1":"Primary Phone"},
 		{"pcp":"Primary Care Provider"}
 	],
-	csvLabels:
+	"csvLabels":
 	[
 	]
 

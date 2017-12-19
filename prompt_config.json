@@ -1,0 +1,18 @@
+{
+	"uiLabels":
+	[
+		{"destinationMrn":"Destination MRN"},
+		{"dob":"DOB"},
+		{"gender":"Sex"},
+		{"address1":"Address"},
+		{"address2":"address2"},
+		{"city":"city"},
+		{"state":"state"},
+		{"phone1":"Primary Phone"},
+		{"pcp":"Primary Care Provider"}
+	],
+	csvLabels:
+	[
+	]
+
+}

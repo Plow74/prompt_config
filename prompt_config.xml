@@ -1,0 +1,12 @@
+<configurations>
+		<label id="destinationMrn" text="Destination MRN" description="" type="UI"/>
+		<label id="dob" text="DOB" description="" type="UI"/>
+		<label id="gender" text="Sex" description="" type="UI"/>
+		<label id="address1" text="Address" description="" type="UI"/>
+		<label id="address2" text="Address2" description="" type="UI"/>
+		<label id="city" text="City" description="" type="UI"/>
+		<label id="state" text="State" description="" type="UI"/>
+		<label id="phone1" text="Primary Phone" description="" type="UI"/>
+		<label id="pcp" text="Primary Care Provider" description="" type="UI"/>
+		<label id="csvtest" text="Awesome CSV Label" description="" type="CSV"/>
+</configurations>

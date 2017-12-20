@@ -1,34 +1,56 @@
 {
-<<<<<<< HEAD
-	"uiLabels":
-	[
-		{"destinationMrn":"Destination MRN"},
-		{"dob":"DOB"},
-		{"gender":"Sex"},
-		{"address1":"Address"},
-		{"address2":"address2"},
-		{"city":"city"},
-		{"state":"state"},
-		{"phone1":"Primary Phone"},
-		{"pcp":"Primary Care Provider"}
-	],
-	"csvLabels":
-	[
-	]
-
-}
-=======
-	"uiLabels": {
-		"destinationMrn": "Destination MRN",
-		"dob": "DOB",
-		"gender": "Sex",
-		"address1": "Address",
-		"address2": "address2",
-		"city": "city",
-		"state": "state",
-		"phone1": "Primary Phone",
-		"pcp": "Primary Care Provider"
+	"destinationMrn": {
+		"id": "destinationMrn",
+		"text": "Destination MRN",
+		"description": "",
+		"type": "UI"
 	},
-	"csvLabels": {}
+	"gender": {
+		"id": "gender",
+		"text": "Sex",
+		"description": "",
+		"type": "UI"
+	},
+	"city": {
+		"id": "city",
+		"text": "City",
+		"description": "",
+		"type": "UI"
+	},
+	"address2": {
+		"id": "address2",
+		"text": "Address2",
+		"description": "",
+		"type": "UI"
+	},
+	"address1": {
+		"id": "address1",
+		"text": "Address",
+		"description": "",
+		"type": "UI"
+	},
+	"dob": {
+		"id": "dob",
+		"text": "DOB",
+		"description": "",
+		"type": "UI"
+	},
+	"state": {
+		"id": "state",
+		"text": "State",
+		"description": "",
+		"type": "UI"
+	},
+	"pcp": {
+		"id": "pcp",
+		"text": "Primary Care Provider",
+		"description": "",
+		"type": "UI"
+	},
+	"phone1": {
+		"id": "phone1",
+		"text": "Primary Phone",
+		"description": "",
+		"type": "UI"
+	}
 }
->>>>>>> 056e0858a48ba69bfe9c0a78565dcbded48ced9d
